@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="javafx.base (2)" level="project" />
+    <orderEntry type="library" name="javafx.controls (2)" level="project" />
+    <orderEntry type="library" name="javafx.graphics (2)" level="project" />
+    <orderEntry type="library" name="javafx.fxml (2)" level="project" />
+    <orderEntry type="library" name="javafx-swt (2)" level="project" />
+    <orderEntry type="library" name="javafx.web (2)" level="project" />
+    <orderEntry type="library" name="javafx.swing (2)" level="project" />
+    <orderEntry type="library" name="jfreechart-1.0.19-demo" level="project" />
+    <orderEntry type="library" name="lib (3)" level="project" />
+  </component>
+</module>
